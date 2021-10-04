@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = myf.abuhalala@gmail.com
+	name = Mohamed Abuhalala
